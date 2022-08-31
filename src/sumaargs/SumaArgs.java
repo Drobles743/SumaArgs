@@ -13,7 +13,7 @@ public class SumaArgs {
         }
         System.out.format("suma = %d\n", sum);
         System.out.format("Promedio = %d\n",sum/args.length );
-        System.out.println("commit and push");
+        System.out.println("commit and pusa");
 
     }
     
